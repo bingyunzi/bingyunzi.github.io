@@ -1,2 +1,2 @@
-# bingyunzi.io
+# bingyunzi.github.io
 个人博客
